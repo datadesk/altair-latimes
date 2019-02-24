@@ -89,6 +89,7 @@ def theme():
             rect=dict(fill=palette['default']),
             shape=dict(stroke=palette['default']),
             bar=dict(fill=palette['default']),
+            point=dict(stroke=palette['default']),
             symbol=dict(fill=palette['default'], size=30),
             axis=dict(
                 titleFont=titleFont,
