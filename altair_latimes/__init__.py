@@ -55,18 +55,18 @@ def theme():
     """
     # Headline stuff
     headlineFontSize = 22
-    headlineFontWeight = "normal",
-    headlineFont = 'Benton Gothic Bold, sans';
+    headlineFontWeight = "normal"
+    headlineFont = 'Benton Gothic Bold, sans'
 
     # Titles for axes and legends and such
-    titleFont = 'Benton Gothic Bold, sans';
-    titleFontWeight = 'normal';
-    titleFontSize = 13;
+    titleFont = 'Benton Gothic Bold, sans'
+    titleFontWeight = 'normal'
+    titleFontSize = 13
 
     # Labels for ticks and legend entries and such
-    labelFont = 'Benton Gothic, sans';
-    labelFontSize = 11.5;
-    labelFontWeight = 'normal';
+    labelFont = 'Benton Gothic, sans'
+    labelFontSize = 11.5
+    labelFontWeight = 'normal'
 
     return dict(
         config=dict(
