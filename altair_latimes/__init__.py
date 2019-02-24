@@ -61,11 +61,11 @@ def theme():
     # Titles for axes and legends and such
     titleFont = 'Benton Gothic Bold, sans'
     titleFontWeight = 'normal'
-    titleFontSize = 13
+    titleFontSize = 14
 
     # Labels for ticks and legend entries and such
     labelFont = 'Benton Gothic, sans'
-    labelFontSize = 11.5
+    labelFontSize = 12
     labelFontWeight = 'normal'
 
     return dict(
@@ -120,7 +120,7 @@ def theme():
                 titleFontWeight=titleFontWeight,
                 symbolType='square',
                 labelFont=labelFont,
-                labelFontSize=labelFontSize
+                labelFontSize=labelFontSize + 1
             ),
             range=dict(
                 category=palette['schemes']['category-6'],
