@@ -49,3 +49,7 @@ alt.Chart(source, title="Iowa's renewable energy boom").mark_area().encode(
 ```
 
 ![example](./iowa.png)
+
+### What else?
+
+This library requires that you have both the "Benton Gothic" and "Benton Gothic Bold" fonts installed. More examples can be found in [notebook.ipynb](./notebook.ipynb).
