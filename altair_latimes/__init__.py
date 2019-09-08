@@ -45,6 +45,15 @@ palette = dict(
         '#607785',
         '#47525d',
       ],
+      'cb-diverging-purpgrn': [
+        '#762a83',
+        '#af8dc3',
+        '#e7d4e8',
+        '#f7f7f7',
+        '#d9f0d3',
+        '#7fbf7b',
+        '#1b7837',
+      ],
     }
 )
 
