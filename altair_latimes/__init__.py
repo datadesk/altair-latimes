@@ -65,15 +65,15 @@ def theme():
     # Headline stuff
     headlineFontSize = 22
     headlineFontWeight = "normal"
-    headlineFont = 'Benton Gothic Bold, sans'
+    headlineFont = 'BentonGothic-Bold, sans'
 
     # Titles for axes and legends and such
-    titleFont = 'Benton Gothic Bold, sans'
+    titleFont = 'BentonGothic-Bold, sans'
     titleFontWeight = 'normal'
     titleFontSize = 14
 
     # Labels for ticks and legend entries and such
-    labelFont = 'Benton Gothic, sans'
+    labelFont = 'BentonGothic, sans'
     labelFontSize = 12
     labelFontWeight = 'normal'
 
